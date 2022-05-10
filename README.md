@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cryptojim99
+- 👋 Hi, I’m @cryptojim99 ( not my real name :) )
 - 👀 I’m interested in Solana, Python, Rust 
 - 🌱 I’m currently learning Rust
 
